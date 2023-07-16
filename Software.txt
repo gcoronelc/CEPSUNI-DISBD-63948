@@ -1,0 +1,3 @@
+- yEd Graph Editor: https://www.yworks.com/products/yed
+- ERwin: https://uniedupe93141-my.sharepoint.com/:f:/g/personal/gcoronel_uni_edu_pe/EvGKjbwheJFKnJJLnx5ldPYBEj3CBhDzknvf3z7h937KVQ?e=j0GD6f
+- SQL Server: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
