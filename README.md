@@ -1,4 +1,4 @@
-![DISEÑO DE BASE DE DATOS RELACIONALES](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-DISBD-63542/master/img/DISBDR.png)
+![DISEÑO DE BASE DE DATOS RELACIONALES](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-DISBD-63948/master/img/DISBDR.png)
 
 # DATOS GENERALES del curso
 
@@ -7,7 +7,7 @@
 - Nombre: DISEÑO DE BASE DE DATOS RELACIONALES
 - Lugar: CEPS-UNI
 - Horario: DOM DE 08 - 12 Horas
-- Inicio: 10-MAR-2021
+- Inicio: 16-JUL-2023
 - Duración: 24 Horas
 - URL DEL CURSO: https://www.ceps.uni.edu.pe/tienda/programa-sql-server-data-base-administrator/diseno-de-base-de-datos
 - Dirección: https://goo.gl/maps/PyC3Ek8MXW3bVZoC7
@@ -19,7 +19,6 @@
 
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
-- Blog: www.desarrollasoftware.com
 - Canal Youtube: https://www.youtube.com/c/DesarrollaSoftware
 - Grupo FaceBook: https://www.facebook.com/groups/desarrollasoftware/
 - Recursos: http://gcoronelc.github.io/
@@ -27,6 +26,7 @@
 
 # RECURSOS EN YUTUBE
 
+- SQL Server: http://gcoronelc.blogspot.com/p/sql-server.html
 - JAVA OO: https://bit.ly/2FCowSU
 - JDBC: https://bit.ly/2TaHisH
 - PL/SQL: https://bit.ly/2uvE9cF
